@@ -8,6 +8,7 @@ body {
     font-family: 'Montserrat', sans-serif, Open Sans;
     background-size: cover;
     background-attachment: fixed;
+    height: calc(100vh - 3em);
 }
 
 .search {
@@ -201,6 +202,7 @@ label {
 }
 
 footer {
+    color: #fff;
     display: flex;
     justify-content: center;
     position: fixed;
@@ -254,6 +256,7 @@ footer {
     padding: 29px;
     margin: 10px;
     background-size: 200px;
+    height: calc(100vh - 3em);
 }
 
 .cardstyles {
